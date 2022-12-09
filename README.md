@@ -1,6 +1,5 @@
 # Banco_check
 Verifica nuevas plazas en el banco de españa
-# check_tains
 
  Aqui la descripción de los archivos:
  
